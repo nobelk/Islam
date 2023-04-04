@@ -1,10 +1,11 @@
 Title: Surah Fatiha
 Date: 04/04/2023
-Reference:
+Reference: Quran in 30 days
 
 ---
 
-# Bismillahir Rahmanir Rahim
+# Brief overview
+> Bismillahir Rahmanir Rahim
 -   Surahs are not arranged chronologically
 
 ## Juz

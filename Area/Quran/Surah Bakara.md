@@ -1,10 +1,11 @@
 Title: Surah Bakara
 Date: 04/04/2023
-Reference:
+Reference: Quran in 30 days
 
 ---
-
-# Bismillahir Rahmanir Rahim
+ 
+# Brief Overview
+> Bismillahir Rahmanir Rahim
 -   Broad motifs are discussed
 -   You are accountable for your own destiny just as your ancestors were accountable for theirs
 -   Contains the most blessed verse: Ayat-ul-kursi
@@ -13,35 +14,28 @@ Reference:
 -   Summarizes the straight path
 
 ## Importance
-
 - Not reciting this surah will make you sad
 - No evil can conquer this surah
 
 ## Content
-
 Entire mankind is divided into three:
-
-1.  Those who believe
-2.  Those who do not believe
-3.  Those who pretend to believe
+	1.  Those who believe
+	2.  Those who do not believe
+	3.  Those who pretend to believe
 
 ## Existence of Allah(swt)
-
 Look around you:
 1.  The sun and the moon
 2.  The changing of the tides
 3.  The changes of the seasons, night and day
 
 ## Two great angels
-
 Talks about Gabriel and Mikail
 
-## Link
-
+## Our lives
 Links our prior life (no existence) to our current life to our next life
 
 ## Practice
-
 -   Mentions the five pillars of faith
 -   Prohibitions of alcohol
 -   Prohibitions of Gambling
@@ -52,22 +46,17 @@ Links our prior life (no existence) to our current life to our next life
 > Islam is not just a faith but an entire lifestyle
 
 ## Story of Genesis
-
 -   Allah(swt) has given the gift of intellect (thought & speech)
 -   All of the children of Adam are sinful
 
 ## Story of Ibrahim
 
-First house of worship was built by Ibrahim (Qaba)
-
 > Dua: Rabbana takabbal …
 
 ## Story of Yakub
-
 Legacy - what will your childrens’ faith be once you have passed away
 
 ## Story of Daud
-
 Victory against all odds with the help of Allah(swt)
 
 ## Story of Sulaiman
@@ -79,7 +68,6 @@ Victory against all odds with the help of Allah(swt)
 -   Reminds them about their history
 
 ## Theme
-
 Those who truly turns their face to Allah and does good deeds will enter the kingdom of heaven
 
 > Challenge: To bring one chapter like this - but you will never be able to do it
@@ -95,7 +83,7 @@ Those who truly turns their face to Allah and does good deeds will enter the kin
 -   Quran came down to the nearest sky from Al Lawhe Mahfuj during Ramadan
 -   Quran is mentioned before fasting
 
-If my servants ask about me, tell them I am near
+> If my servants ask about me, tell them I am near
 
 ## Cause of rejection of Islam
 -   the ancestors, culture, morality, etc.
@@ -109,7 +97,6 @@ If my servants ask about me, tell them I am near
 > Fight who are fighting you for the sake of Allah (swt) and do not commit oppression
 
 ## Islamic penal code
-
 -   Penalty of murder is execution
 -   Deters the crime saving the life of both the criminal and the victim
 -   If the victim’s family decides to forgive (it should be commended), the criminal should follow up with penalty and good deeds
@@ -125,7 +112,7 @@ If my servants ask about me, tell them I am near
 - Whoever recites it after every fard prayer, only thing preventing him from going to Hannah is his or her death
 
 ## Last ayat of Surah Bakara
-Whoever recites this ayat at night it is sufficient for him Bukhari 4723
+> Whoever recites this ayat at night it is sufficient for him Bukhari 4723
 
 ## Middle ayat v:143
 -   We are the ummat-al wasta - a middle nation
@@ -135,9 +122,8 @@ Whoever recites this ayat at night it is sufficient for him Bukhari 4723
 
 ---
 
-
 ## Summary
 Highlight ==what’s important!==
 
 ---
-Tags: #islam #Quran
+Tags: #islam #Quran #penal-code #ayat-ul-kursi #fasting #genesis
