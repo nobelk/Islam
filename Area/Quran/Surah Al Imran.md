@@ -38,7 +38,7 @@ Righteous parents are blessed with righteous children
 -   Difference in responsibilities does **not** mean inequality
 
 ## V:85
--   Non muslims (Able Kitab) may also be pious
+-   Non muslims (Ahl ul Kitab) may also be pious
 -   But Islam is the only acceptable religion
 -   _If they turn away, your job is only to convey_
 
@@ -61,8 +61,8 @@ You are the best nation Allah(swt) has sent on the face of the earth
 ## Signs
 > In the creation of the heavens and earth, there are signs of your Lord
 
-## Summary
+# Summary
 Highlight ==what’s important!==
 
 ---
-Tags: #quran #islam #Jesus #Uhud #death
+Tags: #quran #islam #Jesus #uhud #death #men #women 

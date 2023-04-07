@@ -67,7 +67,7 @@ Ten Commandments of Islam
 ## Property of Macci surahs
 -   Have very few rules
 -   Need to eat halal
--   Give zakat to purity
+-   Give zakat to purify your wealth
 -   Allah’s name must be mentioned while slaughtering
 
 ## Summary

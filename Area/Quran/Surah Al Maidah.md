@@ -76,7 +76,7 @@ Advice to the people of the book
 ## Sincere people/worshippers
 People who were sincere in their worship of God and never heard of Islam may have salvation
 
-## Summary
+# Summary
 Highlight ==what’s important!==
 
 ---

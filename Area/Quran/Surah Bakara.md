@@ -90,7 +90,7 @@ Those who truly turns their face to Allah and does good deeds will enter the kin
 -   Changing values
 
 ## Verses of war
--   Anarchy+Chaos is worse than wars
+-   Anarchy+Chaos is worse than war
 -   Allah (swt) uses one group of people to restrain another
 -   Kalifah’s expanded the civilization of Islam but there is no compulsion in religion (V:256)
 
@@ -122,8 +122,8 @@ Those who truly turns their face to Allah and does good deeds will enter the kin
 
 ---
 
-## Summary
+# Summary
 Highlight ==what’s important!==
 
 ---
-Tags: #islam #Quran #penal-code #ayat-ul-kursi #fasting #genesis
+Tags: #islam #Quran #penal-code #ayat-ul-kursi #fasting #genesis #dua
