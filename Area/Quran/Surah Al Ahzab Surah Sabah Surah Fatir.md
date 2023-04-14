@@ -15,7 +15,7 @@ Reference: Quran in 30 days
 ## V:9
 - Believers were tested and were shaken to the core
 - Munafiqs were ready to renounce their religion and join Kufr
-- Mulims' Iman went higher and they said *this is what Allah(swt) and Rasul(pbuh) has promised us*
+- Muslims' Iman went higher and they said *this is what Allah(swt) and Rasul(pbuh) has promised us*
 - Allah(swt) helped the believers by sending a wind
 - Allah(swt) took care of fighting on your behalf
 
