@@ -68,7 +68,7 @@ Quran is food for our soul
 
 ## Story of Musa and Firaun
 - Just as Firaun led his followers in this world, he will lead his people to hellfire in the next world
-- Do not lean toward people who do julm
+- Do not lean toward people who do zulm
 - Good deeds cause the bad deeds to be taken away
 - Establish daily prayer since it will erase the bad deeds
 - Allah(swt) will not waste the reward of the believers
@@ -77,4 +77,4 @@ Quran is food for our soul
 Highlight ==what’s important!==
 
 ---
-Tags: #quran #sun #moon #time #soul #tawhid #akhirah #risalah  #miracle #qadr #deed #reward #rizq
+Tags: #quran #sun #moon #time #soul #tawhid #akhirah #risalah  #miracle #qadr #deed #reward #rizq #zulm #prayer #jahannam #hereafter #repentance 

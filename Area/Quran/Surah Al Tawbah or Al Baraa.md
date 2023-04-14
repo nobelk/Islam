@@ -36,7 +36,7 @@ Reference: Quran in 30 days
 - Hunain took place against two Jewish tribes
 	- Muslims were higher in number but almost lost the battle since only Allah(swt) grants victory *not* the number
 
-## Munafiques
+## Munafiqs
 - In Tabuk, the Muslims waited for the Byzantine empire to fight
 	- The enemy did not show up
 - If you don't help the Messenger (pbuh), Allah(swt) will replace you

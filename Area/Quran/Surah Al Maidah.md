@@ -43,7 +43,7 @@ Advice to the people of the book
 -   Ref: book (How Jesus becomes God)
 
 ## V:20-26
--   They (Jews) wandered for years as a punishment since they broke Allah (swt)’s covenant
+-   They (Jews/Isralites) wandered for years as a punishment since they broke Allah (swt)’s covenant
 -   Wandered for forty years
 -   When Allah (swt) wants you to do something, take the first step and Allah (swt) will help you
 
@@ -80,4 +80,4 @@ People who were sincere in their worship of God and never heard of Islam may hav
 Highlight ==what’s important!==
 
 ---
-Tags: 
+Tags: #seafood #halal #haram #punishment #sincerity #Jesus #isralite #jannah #blessing #food #morality #salvation #worship
