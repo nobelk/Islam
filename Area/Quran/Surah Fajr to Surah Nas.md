@@ -108,8 +108,6 @@ Reference: Quran in 30 days
 - Provides powerful spiritual protection
 - Turning to Allah(swt) for protection from all evils of jealousy, djinn, and men
 
-# Summary
-Highlight ==what’s important!==
 
 ---
 Tags: #quran #kasam #sun #soul #difficulty #ease #knowledge #action #spirituality #city #struggle #deed #sin #kasam #horse #moth #mankind #akhirah #dunia #time. #trade #miracle #elephant #backbite #slander #day-of-judgement #legacy #jealousy #evil #djinn #men

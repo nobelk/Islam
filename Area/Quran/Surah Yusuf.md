@@ -57,10 +57,8 @@ Reference: Quran in 30 days
 
 - It matters the most where you end up at the end
 
-> Tawaffani musliman - dua of Yusuf
+>Dua: Tawaffani musliman - dua of Yusuf
 
-# Summary
-Highlight ==what’s important!==
 
 ---
 Tags: #quran #dream #jealousy #family #patience #sin #gossip #beauty #hereafter #justice #dawah #trick #dua

@@ -76,8 +76,6 @@ Advice to the people of the book
 ## Sincere people/worshippers
 People who were sincere in their worship of God and never heard of Islam may have salvation
 
-# Summary
-Highlight ==what’s important!==
 
 ---
 Tags: #seafood #halal #haram #punishment #sincerity #Jesus #isralite #jannah #blessing #food #morality #salvation #worship

@@ -78,8 +78,6 @@ On the day of judgement, the best of friends will be the worst of enemies except
 
 > So all praise is for Allah—Lord of the heavens and Lord of the earth, Lord of all worlds.  To Him belongs *all* Majesty in the heavens and the earth. And He is the Almighty, All-Wise.
 
-# Summary
-Highlight ==what’s important!==
 
 ---
 Tags: #quran #rizq #consultation #believer #dua #wealth #jahannam #day-of-judgement #friend #enemy #sign #laylat-ul-qadr #doubt #justice #desire

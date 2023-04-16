@@ -86,8 +86,6 @@ Reference: Quran in 30 days
 - Some people have worked hard and will enter the fire of hell
 - Some peoples' hard work will pay off in the hereafter
 
-# Summary
-Highlight ==what’s important!==
 
 ---
 Tags: #quran #work #akhirah #sky #earth #star #optimism #hell #dunia #repent #optimism

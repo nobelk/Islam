@@ -84,8 +84,6 @@ Reference: Quran in 30 days
 
 > If they turn away, say "Allah(swt) is sufficient for me"
 
-# Summary
-Highlight ==what’s important!==
 
 ---
 Tags: #quran #madani #paganism #hunain #tabuk #zakat #munafiq

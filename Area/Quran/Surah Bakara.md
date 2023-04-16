@@ -120,10 +120,6 @@ Those who truly turns their face to Allah and does good deeds will enter the kin
 -   Just as the Rasul (pbuh) is a witness over you
 -   Mankind would look up to you as you look up to the Rasul (pbuh)
 
----
-
-# Summary
-Highlight ==what’s important!==
 
 ---
 Tags: #islam #Quran #penal-code #ayat-ul-kursi #fasting #genesis #dua

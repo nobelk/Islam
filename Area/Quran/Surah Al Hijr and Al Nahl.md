@@ -53,8 +53,6 @@ Reference: Quran in 30 days
 ## V:90 Khutbah verse
 TBD
 
-# Summary
-Highlight ==what’s important!==
 
 ---
 Tags: #quran #lust #miracle #blessing #bee #honey #milk #disease #cure #house #women #cattle

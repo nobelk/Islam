@@ -51,8 +51,6 @@ Reference: Quran in 30 days
 - Messenger(pbuh) is a human being who has been inspired
 - Whoever wants to meet his Lord, let him believe and do righteous deeds
 
-# Summary
-Highlight ==what’s important!==
 
 ---
 Tags: #quran #fitna #persecution #religion #wealth #knowledge #power #dajjal #tawhid #risala #akhirah #shariah #children #deed #dua #test

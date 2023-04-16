@@ -21,11 +21,7 @@ Reference: Quran in 30 days
 -   Seeking the straight path
 -   Meaning of Amin: Affirmation of all that we have mentioned unto that point
 
----
 
-
-# Summary
-Highlight ==what’s important!==
 
 ---
 Tags: #islam #quran

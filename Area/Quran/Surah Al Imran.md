@@ -61,8 +61,6 @@ You are the best nation Allah(swt) has sent on the face of the earth
 ## Signs
 > In the creation of the heavens and earth, there are signs of your Lord
 
-# Summary
-Highlight ==what’s important!==
 
 ---
 Tags: #quran #islam #Jesus #uhud #death #men #women 

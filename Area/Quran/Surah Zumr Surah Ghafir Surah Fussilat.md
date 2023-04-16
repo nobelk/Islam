@@ -93,8 +93,6 @@ Reference: Quran in 30 days
 ## Miracles
 - *Those who want to believe miracles will be everywhere for them*
 
-# Summary
-Highlight ==what’s important!==
 
 ---
 Tags: #quran #ikhlas #jannah #jahannam #worship #family #optimism #temptation #death #heavens #earth

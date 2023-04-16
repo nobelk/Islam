@@ -73,8 +73,6 @@ Quran is food for our soul
 - Establish daily prayer since it will erase the bad deeds
 - Allah(swt) will not waste the reward of the believers
 
-# Summary
-Highlight ==what’s important!==
 
 ---
 Tags: #quran #sun #moon #time #soul #tawhid #akhirah #risalah  #miracle #qadr #deed #reward #rizq #zulm #prayer #jahannam #hereafter #repentance 

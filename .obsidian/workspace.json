@@ -11,8 +11,12 @@
             "id": "1ba534c8f6e963c9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Area/Quran/Surah Yasin Surah As Saffat Surah Sad.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -66,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5
+    "width": 301.5,
+    "collapsed": true
   },
   "right": {
     "id": "fee7ae14ed3ce610",
@@ -82,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Area/Quran/Surah Yasin Surah As Saffat Surah Sad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Area/Quran/Surah Yasin Surah As Saffat Surah Sad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Area/Quran/Surah Yasin Surah As Saffat Surah Sad.md"
+              }
             }
           }
         ]
@@ -141,15 +150,11 @@
   },
   "active": "1ba534c8f6e963c9",
   "lastOpenFiles": [
-    "Area/Quran/Surah Yaseen Surah As Saffat Surah Sad.md",
-    "Area/Quran/Surah Yunus and Hud.md",
-    "Area/Quran/Surah Al Muminun and Surah Nur.md",
-    "Area/Quran/Surah Al Maidah.md",
-    "Area/Quran/Surah Al Kahf.md",
-    "Area/Quran/Surah Al Imran.md",
-    "Area/Quran/Surah Al Hijr and Al Nahl.md",
+    "Area/Quran/Surah Al Rum Surah Al Luqman Surah Sajda.md",
     "Area/Quran/Surah Zumr Surah Ghafir Surah Fussilat.md",
     "Area/Quran/Surah Yusuf.md",
+    "Area/Quran/Surah Yunus and Hud.md",
+    "Area/Quran/Surah Yasin Surah As Saffat Surah Sad.md",
     "Area/Quran/Surah Tur Surah Najm Surah Hadid.md",
     "Area/Quran/Surah Shuara Surah Zukhruf Surah Dukhan Surah Zatiya.md",
     "Area/Quran/Surah Nisa.md",
@@ -162,10 +167,14 @@
     "Area/Quran/Surah Al-Isra and Al Kahf.md",
     "Area/Quran/Surah Al-Anfal.md",
     "Area/Quran/Surah Al Tawbah or Al Baraa.md",
-    "Area/Quran/Surah Al Hashr Surah Al Mujadilah.md",
-    "Area/Quran/Surah Al Araf.md",
-    "Area/Quran/Surah Al Anbiyah and Surah Al Hajj.md",
-    "Area/Quran/Surah Al Anam.md",
-    "Area/Quran/Surah Al Ahzab Surah Sabah Surah Fatir.md"
+    "Area/Quran/Surah Al Rad Surah Al Ibrahim.md",
+    "Area/Quran/Surah Al Naml, Al Qasas, Al Ankabut.md",
+    "Area/Quran/Surah Al Naba to Surah Al Ghashiya.md",
+    "Area/Quran/Surah Al Muminun and Surah Nur.md",
+    "Area/Quran/Surah Al Maidah.md",
+    "Area/Quran/Surah Al Kahf.md",
+    "Area/Quran/Surah Al Imran.md",
+    "Area/Quran/Surah Al Hijr and Al Nahl.md",
+    "Area/Quran/Surah Al Hashr Surah Al Mujadilah.md"
   ]
 }

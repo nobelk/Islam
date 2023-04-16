@@ -71,8 +71,6 @@ Reconciliation is the best
 -   Why do they not ponder over Quran?
 -   If it were from anyone else other than Allah (swt), they would have found much discrepancy in it
 
-# Summary
-Highlight ==what’s important!==
 
 ---
 Tags: #quran #islam #women #qadr #men #parents #inheritance

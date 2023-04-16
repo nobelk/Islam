@@ -102,8 +102,6 @@ Allah(swt) is Ghani, if you do not do your job, Allah(swt) will replace us with 
 
 - Allah(swt) does not need anyone
 
-# Summary
-Highlight ==what’s important!==
 
 ---
 Tags: #quran #Ha-meem #risalah #tawhid #jinn #insan #blessing #punishment #maula #believer #disbeliever #hypocrisy #zahiliya #arrogance #deed #backbite #spying #ridicule #death #resurrection #khutbah #recitation 

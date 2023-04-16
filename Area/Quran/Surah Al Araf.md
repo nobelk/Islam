@@ -65,8 +65,6 @@ Whoever attains peace and tranquility in his heart, has attained a piece of jann
 - Zikr of Allah(swt) is the weapon in the fight between good and evil
 - We would never have been guided unless Allah (swt) guided us
 
-# Summary
-Highlight ==what’s important!==
 
 ---
 Tags: #quran  #Musa #Adam #Iblis #good #evil #trickery #jannah #peace #jahannam #guidance #zikr #genesis

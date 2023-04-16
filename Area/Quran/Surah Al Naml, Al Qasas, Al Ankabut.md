@@ -77,8 +77,6 @@ Reference: Quran in 30 days
 
 > Whoever strives for Allah(swt) cause, Allah(swt) will pave the path for him or her
 
-# Summary
-Highlight ==what’s important!==
 
 ---
 Tags: #quran #knowledge #djinn #day-of-judgement #ghayib #Musa #iman #kufr #trial #test #spider #Nuh #miracle #punishment #people-of-scripture #prayer #decency #play 

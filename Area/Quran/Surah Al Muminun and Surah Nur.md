@@ -64,8 +64,6 @@ Reference: Quran in 30 days
 - Allah(swt) is the guide for the entire mankind, chest of the Prophet(pbuh) is the niche, his heart is the lamp
 - Quran and Hadith is the light upon light.  Whoever Allah(swt) does not give light, he will have not light
 
-# Summary
-Highlight ==what’s important!==
 
 ---
 Tags: #quran #iman #muminun #khushu #prayer #salat #charity #chastity #spouse #promise #trust #scale #day-of-judgement #slander #sahaba #fornication #kasam #curse #rumor #gaze #forgiveness #khimar #light

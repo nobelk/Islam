@@ -131,8 +131,6 @@ Reference: Quran in 30 days
 - References monasticism
 
 
-# Summary
-Highlight ==what’s important!==
 
 ---
 Tags: #quran #jannah #day-of-judgement #kasam #star #sajdah #recitation #atheism #mazhab #sajdah #idol #taqwa #moon #miraj #isra #wudu #repentance #jannah #jahannam #akhirah #blessing #punishment #temptation #procrastination #doubt #faith #Islam #proof #sin #light #reward 

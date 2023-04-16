@@ -77,8 +77,6 @@ Every soul shall taste death
 
 > Turn to Allah(swt) for protection
 
-# Summary
-Highlight ==what’s important!==
 
 ---
 Tags: #quran #prophet #soul #death #izza #immortality #Lut #djin #dunia #akhirah #athan #hajj #ritual #piety #muslim #Ibrahim 

@@ -113,8 +113,6 @@ Reference: Quran in 30 days
 	- Negative rolemodels - Wife of Nuh, Lut
 	- Positive rolemodels  Firaun's wife, Mariyam
 
-# Summary
-Highlight ==what’s important!==
 
 ---
 Tags: #quran #secret #privacy #marriage #dua #ansar #muhajir #greed #justice #treaty #knowledge #honor #disbeliever #friend #enemy #rizq #athan #munafiq #isralite #calamity #family #halal #haram #charity #oppress #zulm #test #wealth #children #divorce #honor #dignity #kindness

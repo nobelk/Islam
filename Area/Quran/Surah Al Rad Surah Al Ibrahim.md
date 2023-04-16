@@ -87,8 +87,6 @@ Reference: Quran in 30 days
 > We ask Allah(swt) to guide us and guide our children and let us pass away while He(swt) is happy with us
 
 
-# Summary
-Highlight ==what’s important!==
 
 ---
 Tags: #quran #thunder #rain #recitation #heavens #jannah #zikr #qadr #happiness #recitation #khutbah #dua

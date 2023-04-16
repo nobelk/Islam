@@ -86,8 +86,6 @@ Reference: Quran in 30 days
 - Woe to those who deny the day of judgement
 - Punishment/rewards of the day of judgement described
 
-# Summary
-Highlight ==what’s important!==
 
 ---
 Tags: #Quran #day-of-judgement #power #dominion #intercession #wealth #charity #adversity #disbeliever #reward #punishment #jinn #prayer #jahannam #religion

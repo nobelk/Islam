@@ -55,8 +55,6 @@ Victory only comes from Allah(swt)
 	- Allah(swt) forgave him
 - Mercy is allowed when you have the upper hand
 
-# Summary
-Highlight ==what’s important!==
 
 ---
 Tags: #quran #Badr #booty #hijrah #victory #wealth #children #qadr #tawaqqul #unity #ransom #prisoner #war

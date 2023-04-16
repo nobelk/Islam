@@ -70,8 +70,6 @@ Ten Commandments of Islam
 -   Give zakat to purify your wealth
 -   Allah’s name must be mentioned while slaughtering
 
-## Summary
-Highlight ==what’s important!==
 
 ---
 Tags: #quran #animal #macci #shan-e-nuzul #tawhid #risalah #akhirah #halal #miracle

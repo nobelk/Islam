@@ -71,8 +71,6 @@ It is blasphemous to say Allah(swt) has a son
 - Some people will say that the have lived a short life in this world
 - Allah(swt) mentioned whoever follows the guidance of Allah(swt), shall be at peace, whoever does not follow will have a miserable life
 
-# Summary
-Highlight ==what’s important!==
 
 ---
 Tags: #quran #salat #Jesus #seerat #Maryam #Umar #knowledge #akhirah #

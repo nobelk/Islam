@@ -22,8 +22,6 @@ Reference: Quran in 30 days
 ## V:70
 > We have surely preferred the children of Adam - with honor and dignity
 
-# Summary
-Highlight ==what’s important!==
 
 ---
 Tags: #quran #miracle #jahannam #day-of-judgement #book-of-deed #parents

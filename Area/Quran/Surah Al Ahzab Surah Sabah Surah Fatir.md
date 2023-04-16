@@ -85,8 +85,6 @@ If Allah(swt) were to punish us without his mercy, there. would be no creature l
 
 - Allah(swt) rahmah encompasses everything
 
-# Summary
-Highlight ==what’s important!==
 
 ---
 Tags: #quran #mercy #dunia #kufr #jannat #adoption #rahmah #garment #women #punishment #army #heaven #earth #wind

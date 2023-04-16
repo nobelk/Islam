@@ -66,8 +66,6 @@ Reference: Quran in 30 days
 
 > Recitation: Islam Sobhi, Quran FM channel, Abdur Rahman Al Ossi
 
-# Summary
-Highlight ==what’s important!==
 
 ---
-Tags: #quran #Musa #Saleh #Lut #Hud #poet #corruption #justice #day #night #rich #poor #servant #test 
+Tags: #quran #Musa #Saleh #Lut #Hud #poet #corruption #justice #day #night #rich #poor #servant #test #dua

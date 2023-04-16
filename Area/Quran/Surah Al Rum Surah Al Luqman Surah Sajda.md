@@ -71,8 +71,6 @@ They only know the superficial knowledge but they are unaware of the Akhirah (Gh
 - People who ridicule Islam will say when will the day of judgement happen?
 	- Tell them you wait, and we will wait as well
 
-# Summary
-Highlight ==what’s important!==
 
 ---
 Tags: #quran #fitra #day-of-judgement #ruh #soul #jannah #mumin #good #evil #Adam #Hawa #parents 
